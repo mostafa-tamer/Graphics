@@ -1,0 +1,3 @@
+C:/Users/mtame/OneDrive/Desktop/graphics_project/cmake-build-debug/CMakeFiles/graphics_project.dir
+C:/Users/mtame/OneDrive/Desktop/graphics_project/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/mtame/OneDrive/Desktop/graphics_project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
