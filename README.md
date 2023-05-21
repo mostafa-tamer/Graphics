@@ -1,5 +1,5 @@
 # Graphics
-Computer graphics FCAI project
+Computer graphics project
 Implemented Algorithms:
   line  (Simple DDA, Midpoint and parametric) 
   circle  (Direct, Polar, Iterative Polar, Midpoint and Modified Midpoint)  
